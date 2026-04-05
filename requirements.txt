@@ -1,6 +1,7 @@
 streamlit
 pandas
-matplotlib
 numpy
-torch
-python-dateutil
+scikit-learn
+tensorflow
+matplotlib
+plotly
